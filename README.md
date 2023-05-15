@@ -11,12 +11,18 @@
 I'm Oleksandr Bilskyi, young software engineer from Ukraine who loves the cult of productivity and self-improving every day! I am always learning and striving to become engineer not a coder.
 I enjoy coding and developing myself as a specialist, to study new technologies, programming languages, and frameworks. I am passionate about creating high-quality, efficient, and scalable software applications that solve real-world problems. Overall, I am a dedicated and motivated software engineer who is committed to excellence in everything I do. I am excited about the future of software development and am eager to contribute to its continued evolution.
 
+- Now working on [Soft Cinema](https://github.com/bilskyi/soft_cinema)
 
 ### Personal features:
-
 - Hardworking 🫠
 - Purposeful 🎯
 - Creativity 💡
 - Adaptability 🪄
 - Quick-witted 🤓
 
+### Will learn:
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
